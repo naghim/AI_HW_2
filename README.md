@@ -45,6 +45,13 @@ H = 2: meglátogatott csomópontok száma 181, költség 16
 
 A tesztesetek a readme végén találhatóak.
 
+## Eredmények, n=4
+**10 lépés esetén:**
+
+H = 1: meglátogatott csomópontok száma 21, költség 10
+
+H = 2: meglátogatott csomópontok száma 165, költség 10
+
 ___
 ___
 
@@ -86,6 +93,13 @@ H = 1: number of nodes visited 3164, cost is 16
 
 H = 2: number of nodes visited 181, cost is 16
 
+## Results, n=4
+**For 10 steps:**
+
+H = 1: number of visited nodes 21, cost is 10
+
+H = 2: number of nodes visited 165, cost is 10
+
 ## Tesztesetek / Test cases:
 
 ```
@@ -103,4 +117,12 @@ H = 2: number of nodes visited 181, cost is 16
 2 3 4
 8 1 7
 0 6 5
+
+10 lépés/steps, n=4
+2   5  3  4
+9   1  7  8
+0   6 11 12
+13 10 14 15
+
 ```
+
