@@ -24,7 +24,7 @@ A program implementálja a kért kapcsolókat:
 A parancsokat egymás után is lehet fűzni, kivéve a ```-rand <N> <M>```-et, ez esetben nem lesz figyelembe véve a többi parancs.
 Pythonban lett megírva, a 3.6-os verzióban.
 
-## Eredmények
+## Eredmények, n=3
 **5 lépés esetén:**
 
 H = 1: meglátogatott csomópontok száma 5, költség 5
@@ -67,7 +67,7 @@ The code implements the following requirements/switches:
 The commands can be appended sequentially, except for ```-rand <N> <M>```, in which case the other commands are ignored.
 It is written in Python, version 3.6.
 
-## Results
+## Results, n=3
 **For 5 steps:**
 
 H = 1: number of visited nodes 5, cost is 5
